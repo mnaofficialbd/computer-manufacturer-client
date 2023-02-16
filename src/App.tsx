@@ -3,7 +3,7 @@ import './App.css';
 
 function App() {
   return (
-    <div className="">
+    <div>
       <h2>MNA Computer Manufacturer project build with typescript</h2>
     </div>
   );

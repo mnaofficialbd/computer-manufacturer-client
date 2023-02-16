@@ -4,7 +4,8 @@ import './App.css';
 function App() {
   return (
     <div>
-      <h2>MNA Computer Manufacturer project build with typescript</h2>
+      <h2 className="text-3xl font-bold">MNA Computer Manufacturer project build with typescript</h2>
+
     </div>
   );
 }

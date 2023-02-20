@@ -14,9 +14,7 @@ import { HelmetProvider } from 'react-helmet-async';
 // Create a client
 const queryClient = new QueryClient();
 
-const root = ReactDOM.createRoot(
-  document.getElementById('root') as HTMLElement
-);
+const root = ReactDOM.createRoot(document.getElementById('root') as HTMLElement);
 root.render(
   <HelmetProvider>
   <BrowserRouter>

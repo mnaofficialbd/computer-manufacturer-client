@@ -75,7 +75,7 @@ const MyProfile = () => {
                                         <img src={photoURL} alt="User Avatar" />
                                     </div>
                                     <h3 >{displayName}</h3>
-                                </div>) : (<div class="avatar card items-center w-full justify-center">
+                                </div>) : (<div className="avatar card items-center w-full justify-center">
                                     <div className="w-22 rounded ring ring-primary ring-offset-base-100 ring-offset-2 m-2">
                                         <FontAwesomeIcon className="pt-2 mx-2" icon={faUser} size="4x"></FontAwesomeIcon>
                                     </div>

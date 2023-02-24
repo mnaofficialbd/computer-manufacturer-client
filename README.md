@@ -2,7 +2,7 @@
 ### (React+Typescript project).
 
 - Live link (V1): https://mna-computer-manufacturer.web.app
-
+- Live link (V2): Coming soon....
 - Server side link: https://github.com/mnaofficialbd/mna-computer-manufacturer-server
 <hr />
 
@@ -23,3 +23,5 @@
 `React.JS`, `Typescript`, `React Router Dom`, `Tailwind CSS`, `DaisyUI`, `React Query`, `React fontawesome`, `React Icons`, `Google Firebase`, `React firebase hooks`, `React hook form`, `React Toastify`, `Stripe.js`, `Google Maps React`, `React Day Picker`,`Date FNS`, `Google Map`,`React ChartJs`, `React ChartJs-2`, `Swiper`, `React Helmet Async`, .
 #### Back-End: 
 `Express.JS`, `MongoDB`, `Node.JS`, `Json Web Token (JWT)`, `Cors`, `Dotenv`, `Stripe`.
+
+<hr />

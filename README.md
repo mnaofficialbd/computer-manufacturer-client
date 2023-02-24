@@ -1,7 +1,7 @@
 ## MNA_Computer_Manufacturer-V2. 
 ### (React+Typescript project).
 
-- Live link: https://mna-computer-manufacturer.web.app
+- Live link (V1): https://mna-computer-manufacturer.web.app
 
 - Server side link: https://github.com/mnaofficialbd/mna-computer-manufacturer-server
 <hr />
@@ -19,7 +19,7 @@
 <hr />
 
 ### Use Technology: 
-* Frond-End: 
-`React.JS`, `React Router Dom`, `React Tailwind CSS`, `DaisyUI`, `React fontawesome`, `React Icons`, `Google Firebase`, `React firebase hooks`, `React hook form`, `React Toastify`, `Stripe.js`, `Google Maps React`, `React Day Picker`, `Google Map`, `React ChartJs-2`, `Swiper`.
-* Back-End: 
-`Express.JS`, `MongoDB`, `Node.JS`, `Json Web Token (JWT)`, `Cors`, `Dotenv`.
+#### Frond-End: 
+`React.JS`, `Typescript`, `React Router Dom`, `Tailwind CSS`, `DaisyUI`, `React Query`, `React fontawesome`, `React Icons`, `Google Firebase`, `React firebase hooks`, `React hook form`, `React Toastify`, `Stripe.js`, `Google Maps React`, `React Day Picker`,`Date FNS`, `Google Map`,`React ChartJs`, `React ChartJs-2`, `Swiper`, `React Helmet Async`, .
+#### Back-End: 
+`Express.JS`, `MongoDB`, `Node.JS`, `Json Web Token (JWT)`, `Cors`, `Dotenv`, `Stripe`.
